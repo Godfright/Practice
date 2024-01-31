@@ -12,10 +12,6 @@
 			]
 		},
 		{
-			"Name": "FMODStudio",
-			"Enabled": true
-		},
-		{
 			"Name": "FMODStudioNiagara",
 			"Enabled": false
 		}
